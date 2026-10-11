@@ -178,6 +178,7 @@
 - [Quake 2](https://github.com/GMH-Code/Qwasm2) - port by [GMH-Code](https://github.com/GMH-Code)
 - [RAFT](https://github.com/genizy/web-port/tree/main/raft) - Ported by Ashen Arrow
 - [Raldi's Crackhouse](https://github.com/woahhcrackers/RaldiWeb-LEGACY) - port by [crackers](https://github.com/woahhcrackers)
+- [Rabbids Go Home](https://github.com/teaserlua/rabbids-go-home-web-port) - port by [teaser.lua](https://github.com/teaserlua)
 - [R.E.P.O](https://github.com/genizy/web-port/tree/main/repo) - Ported by [98Corbins](https://98.c0rbin.fun/)
 - [RE:RUN](https://github.com/aukak/RE-RUN) - ported by [bog/aukak](https://github.com/aukak)
 - [Rimworld](https://github.com/SomeRandomFella/portsandrips/tree/master/rimworld) - port by  [sexyplankton](https://github.com/SomeRandomFella)
