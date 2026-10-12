@@ -53,7 +53,7 @@
 - [Cruelty Squad](https://github.com/imt00dizzy/cruelty-squad), [2](https://github.com/web-ports/cruelty-squad) - port by [dizzy](https://github.com/imt00dizzy)
 - [Dead Plate](https://github.com/genizy/web-port/tree/main/dead-plate) - Ported by [bread](https://github.com/genizy)
 - [Dawnfolk](https://github.com/degloved-net/dawnfolk) - port by [cirsius](https://github.com/cirsius)
-- [Deltarune Chapters 1-4](https://aukak.itch.io/deltarune) - Ported by [bread](https://github.com/genizy), Archived by [bog/aukak](https://github.com/aukak)
+- [Deltarune](https://github.com/Mollomm1/test) - port by [Mollomm1](https://github.com/Mollomm1)
 - [Dewdrop Dynasty](https://github.com/obsidian-ports/Dewdrop-Dynasty) - Port by [Nebelung](https://github.com/Nebelung-Dev) for [Obsidian Ports](https://github.com/obsidian-ports)
 - [Dice a Million](https://github.com/NotRexed/Unblocked-Games/tree/main/diceamillion) - port by [NotRexed](https://github.com/NotRexed)
 - [Dictators:No Peace Countryballs](https://github.com/web-ports/countryballsdictator) - port by [bread](https://github.com/genizy)
