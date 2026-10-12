@@ -97,7 +97,7 @@
 - [Gang Beasts](https://github.com/jmhq20120212-cmd/GangBeast-WebPort) - port by [teaser.lua](https://github.com/jmhq20120212-cmd)
 - [Getting Over It](https://github.com/genizy/web-port/tree/main/getting-over-it) - Ported by [slqnt](https://github.com/slqntdevss)
 - [Genital Jousting](https://github.com/degloved-net/genital-jousting) - port by [gurtmuncher](https://github.com/gurtmuncher)
-- [Gorilla Tag](https://github.com/web-ports/gorilla-tag), [2](https://github.com/aukak/gorrila-tag) - port by [boolonx dot com](https://boolonx.com/)
+- [Gorilla Tag](https://github.com/web-ports/gorilla-tag), [2](https://github.com/xxskidxx69420-ai/gtag-webgl), [3](https://github.com/xxskidxx69420-ai/gtag-winterfeb2023-webgl) - port by [boolonx dot com](https://boolonx.com/)
 - [Granny](https://github.com/web-ports/granny), [2](https://github.com/aukak/Granny), [3](https://github.com/woahhcrackers/GrannyWeb) - ports by [bread](https://github.com/genizy), [bog/aukak](https://github.com/aukak), crackers
 - [Granny 2](https://github.com/web-ports/granny-2) - port by [bread](https://github.com/genizy)
 - [Granny 3](https://github.com/mynamescrax/gamesforaetheris/tree/main/granny3) - port by [crax](https://github.com/mynamescrax)
