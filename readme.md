@@ -147,6 +147,7 @@
 - [My Dictator Stalin Can't Be This Cute ?!](https://github.com/degloved-net/stalin-yuri-web) - port by [cirsius](https://github.com/cirsius)
 - [My Femboy Roommate](http://github.com/gays-studio/mfr-webport), [2](https://github.com/Cute-Orange-Cat/MFR/tree/main) - ported by [aj](https://github.com/ajtabjs) 
 - [Needy Streamer Overload](https://github.com/web-ports/needy-streamer-overload) - port by [edurocks](https://edurocks.org)
+- [New Super Mario Bros. Wii](https://github.com/teaserlua/nsmbw-web-port) - port by [teaser.lua](https://github.com/teaserlua)
 - [Night in the Woods](https://github.com/reeyuki/NightInTheWoods/) - port by [reeyuki](https://reeyuki.neocities.org)
 - [Night of the Consumers](https://github.com/linkawaken1979-alt/night-of-the-consumers-web-port) - port by eric larpman
 - [Nodebuster](https://github.com/degloved-net/nodebuster) - port by [cirsius](https://github.com/cirsius)
