@@ -153,6 +153,7 @@
 - [My Femboy Roommate](http://github.com/gays-studio/mfr-webport), [2](https://github.com/Cute-Orange-Cat/MFR/tree/main) - ported by [aj](https://github.com/ajtabjs) 
 - [Needy Streamer Overload](https://github.com/web-ports/needy-streamer-overload) - port by [edurocks](https://edurocks.org)
 - [Night in the Woods](https://github.com/reeyuki/NightInTheWoods/) - port by [reeyuki](https://reeyuki.neocities.org)
+- [Night of the Consumers](https://github.com/linkawaken1979-alt/night-of-the-consumers-web-port) - port by eric larpman
 - [Nodebuster](https://github.com/degloved-net/nodebuster) - port by [cirsius](https://github.com/cirsius)
 - [Nothing](https://github.com/gays-studio/nothing-wasm-web), [2](https://github.com/googoogoob/NothingWebPort), [3](https://github.com/BestSpark687090/bestspark-web-ports/tree/main/actual-nothing) - ported by [aj](https://github.com/ajtabjs)
 - [Nubby's Number Factory](https://github.com/genizy/biologyexams/tree/main/nubbys-number-factory) - port by [bread](https://github.com/genizy)
