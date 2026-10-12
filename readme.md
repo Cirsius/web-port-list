@@ -72,7 +72,7 @@
 - [Fears to Fathom: Home Alone](https://github.com/slqntdevss/FTFHAPort) - Ported by [slqnt](https://github.com/slqntdevss)
 - [FIH](https://github.com/InsayneBoko/fih-port/tree/main/port) - port by [InsayneBoko](https://github.com/InsayneBoko)
 - [FISH](https://github.com/web-ports/fish) - port by [bread](https://github.com/genizy)
-- [FNAF](https://github.com/genizy/web-port/tree/main/fnaf) - Ported by [irv77](https://github.com/irv77)
+- [FNAF](https://github.com/genizy/fnaf/tree/main/1) - Ported by [irv77](https://github.com/irv77), fixed by [bread](https://github.com/genizy)
 - [FNAF: Blood & Gears (Demo)](https://github.com/UMMMM-GUYSSS/Five-Nights-at-Freddy-s-Blood---Gears) - port by [yourlosingblood](https://github.com/UMMMM-GUYSSS)
 - [Five Nights at Candy's 1](https://github.com/web-ports/fnac/tree/main/1) - Ported by [breadbb](https://gn-math.dev)
 - [Five Nights at Candy's 2](https://github.com/web-ports/fnac/tree/main/2) - Ported by [breadbb](https://github.com/genizy)
