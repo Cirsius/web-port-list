@@ -149,7 +149,7 @@
 - [Mindustry](https://github.com/khoichon/mindustry-web/) - port by [khoichon](https://github.com/khoichon)
 - [Muddy Heights](https://github.com/gabadagabadgoo/morbidy-obese-chickens) - port by [fard.exe](https://github.com/gabadagabadgoo)
 - [My Baby Talking Hippo](https://github.com/web-ports/talking-hippo) - port by [bread](https://github.com/genizy)
-- [My Dictator Stalin Can't Be This Cute ?!](https://github.com/degloved-net/my-dictator-stalin-cant-be-this-cute) - port by [cirsius](https://github.com/cirsius)
+- [My Dictator Stalin Can't Be This Cute ?!](https://github.com/degloved-net/stalin-yuri-web) - port by [cirsius](https://github.com/cirsius)
 - [My Femboy Roommate](http://github.com/gays-studio/mfr-webport), [2](https://github.com/Cute-Orange-Cat/MFR/tree/main) - ported by [aj](https://github.com/ajtabjs) 
 - [Needy Streamer Overload](https://github.com/web-ports/needy-streamer-overload) - port by [edurocks](https://edurocks.org)
 - [Night in the Woods](https://github.com/reeyuki/NightInTheWoods/) - port by [reeyuki](https://reeyuki.neocities.org)
