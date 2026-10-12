@@ -64,8 +64,6 @@
 - [Do NOT Take This Cat Home](https://github.com/genizy/web-port/tree/main/donottakethiscathome) - Ported by [bread](https://github.com/genizy)
 - [Doom Engine](https://github.com/GMH-Code/Dwasm) - port by [GMH-Code](https://github.com/GMH-Code)
 - [Doom 3](https://github.com/web-ports/doom-3), [original](https://github.com/gabrielcuvillier/d3wasm) - Ported by [98corbins](https://98.c0rbin.fun/), [gabrielcuvillier](https://github.com/gabrielcuvillier)
-- [Dude Simulator](https://dude-simulator-webgl.netlify.app/) - port by carter
-- [Dude Simulator 2](https://dude-sim-2-webgl-ported-by-carteryes.netlify.app/ ) - port by carter
 - [Duck Life Adventure](https://github.com/web-ports/duck-8) - Ported by [bog/aukak](https://github.com/aukak)
 - [Dumb Ways to Die (v1.6)](https://github.com/web-ports/dumb-ways-to-die) - port by [bread](https://github.com/genizy)
 - [Fear and Hunger](https://github.com/web-ports/fear-and-hunger) - port by [bread](https://github.com/genizy)
