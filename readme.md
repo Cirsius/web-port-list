@@ -96,7 +96,8 @@
 <!-- [Fungiman](https://github.com/GrassPorts/Fungiman) - port by [grass](https://github.com/GrassPorts) -->
 - [Gabriel's Awesome Schoolhouse](https://github.com/web-ports/gash) - port by [bread](https://github.com/genizy)
 - [Gamble with Your Friends](https://github.com/Camzzz-vrgt/gamble-with-your-friends-web/tree/main/game) - port by [Camzzz](https://github.com/Camzzz-vrgt)
-- [Gang Beasts](https://github.com/jmhq20120212-cmd/GangBeast-WebPort) - port by [teaser.lua](https://github.com/jmhq20120212-cmd)
+- [Gang Beasts](https://github.com/jmhq20120212-cmd/GangBeast-WebPort) - port by [teaser.lua](https://github.com/teaserlua)
+- [Gambonanza](https://github.com/AlexBoops/Gambonanza-Port) - port by [Eric Larpman](https://github.com/AlexBoops)
 - [Getting Over It](https://github.com/genizy/web-port/tree/main/getting-over-it) - Ported by [slqnt](https://github.com/slqntdevss)
 - [Genital Jousting](https://github.com/degloved-net/genital-jousting) - port by [gurtmuncher](https://github.com/gurtmuncher)
 - [Gorilla Tag](https://github.com/web-ports/gorilla-tag), [2](https://github.com/xxskidxx69420-ai/gtag-webgl), [3](https://github.com/xxskidxx69420-ai/gtag-winterfeb2023-webgl) - port by [boolonx dot com](https://boolonx.com/)
