@@ -3,6 +3,7 @@
 - [-b](https://github.com/web-ports/baldi-mods/tree/main/-b) - port by [bog/aukak](https://github.com/aukak)
 - [20 Minutes Till Dawn](https://github.com/web-ports/20-minutes) - port by bog and rah
 - [A Bite at Freddy's](https://github.com/freebuisness/assets/tree/main/258) - port by [bread](https://github.com/genizy)
+- [A Dance of Fire and Ice](https://github.com/Nawsif/host/tree/main/ADOFAI) - port by [zaddy](https://github.com/Nawsif)
 - [A Difficult Game About Climbing](https://github.com/web-ports/adgac) - port by [bread](https://github.com/genizy)
 - [Amanda The Adventurer](https://github.com/genizy/web-port/tree/main/amanda-the-adventurer) - Ported by [bread](https://github.com/genizy)
 - [Ambidextro](https://github.com/chromecrash/Ambidextro-browser-port) - port by [chromecrash](https://github.com/chromecrash)
@@ -61,6 +62,7 @@
 - [Doki Doki Literature Club](https://github.com/EmeraldGreenR/EmeraldGreenR.github.io) - Ported by [EmeraldGreenR](https://github.com/EmeraldGreenR/)? 
 - [Doki Doki Literature Club Plus!](https://selenite.cc/resources/semag/ddlcplus/index.html) - port by [sky](https://github.com/skysthelimitt)
 - [Don't Bite Me Bro](https://github.com/usheje883-maker/Dont-Bite-Me-Bro-Web) - port by [ThatWirdGuy2](https://github.com/usheje883-maker)
+- [Don't Sleep With The Fishes](https://github.com/AlexBoops/DSWTF-Port) - port by [Eric Larpman](https://github.com/AlexBoops)
 - [Do NOT Take This Cat Home](https://github.com/genizy/web-port/tree/main/donottakethiscathome) - Ported by [bread](https://github.com/genizy)
 - [Doom Engine](https://github.com/GMH-Code/Dwasm) - port by [GMH-Code](https://github.com/GMH-Code)
 - [Doom 3](https://github.com/web-ports/doom-3), [original](https://github.com/gabrielcuvillier/d3wasm) - Ported by [98corbins](https://98.c0rbin.fun/), [gabrielcuvillier](https://github.com/gabrielcuvillier)
@@ -149,7 +151,7 @@
 - [Needy Streamer Overload](https://github.com/web-ports/needy-streamer-overload) - port by [edurocks](https://edurocks.org)
 - [New Super Mario Bros. Wii](https://github.com/teaserlua/nsmbw-web-port) - port by [teaser.lua](https://github.com/teaserlua)
 - [Night in the Woods](https://github.com/reeyuki/NightInTheWoods/) - port by [reeyuki](https://reeyuki.neocities.org)
-- [Night of the Consumers](https://github.com/linkawaken1979-alt/night-of-the-consumers-web-port) - port by eric larpman
+- [Night of the Consumers](https://github.com/linkawaken1979-alt/night-of-the-consumers-web-port) - port by [Eric Larpman](https://github.com/AlexBoops)
 - [Nodebuster](https://github.com/degloved-net/nodebuster) - port by [cirsius](https://github.com/cirsius)
 - [Nothing](https://github.com/gays-studio/nothing-wasm-web), [2](https://github.com/googoogoob/NothingWebPort), [3](https://github.com/BestSpark687090/bestspark-web-ports/tree/main/actual-nothing) - ported by [aj](https://github.com/ajtabjs)
 - [Nubby's Number Factory](https://github.com/genizy/biologyexams/tree/main/nubbys-number-factory) - port by [bread](https://github.com/genizy)
@@ -176,6 +178,7 @@
 - [Rabbids Go Home](https://github.com/teaserlua/rabbids-go-home-web-port) - port by [teaser.lua](https://github.com/teaserlua)
 - [R.E.P.O](https://github.com/genizy/web-port/tree/main/repo) - Ported by [98Corbins](https://98.c0rbin.fun/)
 - [Rimworld](https://github.com/SomeRandomFella/portsandrips/tree/master/rimworld) - port by  [sexyplankton](https://github.com/SomeRandomFella)
+- [ROUNDS](https://github.com/Nawsif/host/tree/main/ROUNDS) - port by [zaddy](https://github.com/Nawsif)
 - [Saihate Station](https://github.com/web-ports/saihate-station)
 - [Scoutdingo](https://github.com/web-ports/scoutdingo) - port by [burnedpopcorn](https://github.com/burnedpopcorn)
 - [SCP: Containment Breach](https://github.com/larpinguser/q8j) - port by [q8j](https://github.com/q8j-dev)
