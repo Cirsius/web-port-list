@@ -26,6 +26,7 @@
 - [Bat to the Heavens](https://github.com/gays-studio/bat-to-the-heavens)- port by [aj](https://github.com/ajtabjs)
 - [Beat Banger](https://github.com/ajtabjs/bbport) - port by [aj](https://github.com/ajtabjs)
 - Beatblock - port by bog
+- [Before Close](https://github.com/xxuep/before-close-webport) - port by [doof](https://github.com/xxuep)
 - [Bendy and The Ink Machine](https://github.com/woahhcrackers/BATIMWeb) - port by [crackers](https://github.com/woahhcrackers)
 - [BERGENTRUCK 201x](https://github.com/genizy/web-port/tree/main/bergentruck) - Ported by [bread](https://github.com/genizy)
 - [Black Hole Fishing](https://github.com/mynamescrax/gamesforaetheris/tree/main/blackholefishing) - port by [crax](https://github.com/mynamescrax)
