@@ -48,6 +48,7 @@
 - [Class of '09](https://github.com/genizy/web-port/tree/main/class-of-09) - Ported by [bread](https://github.com/genizy)
 - [Click to Ten](https://github.com/BestSpark687090/bestspark-web-ports/tree/main/click-to-ten) - port by [BestSpark687090](https://github.com/BestSpark687090)
 - [Clover Pit](https://github.com/web-ports/clover-pit) - port by [bread](https://github.com/genizy)
+- [Counter Strike 2019](https://webstrike.me) - port by [onpeek](https://github.com/onpeek)
 - [Counter Strike 1.6](https://github.com/woahhcrackers/Global-Strike) - port by [crackers](https://github.com/woahhcrackers/Global-Strike)
 - [Counter Strike & Half Life](https://github.com/yohimik/webxash3d-fwgs), [frontend](https://github.com/x8BitRain/webXash/), [2](https://github.com/Pixelsuft/hl) - port by [yohimik](https://github.com/yohimik)
 - [Cuphead](https://github.com/web-ports/cuphead/), [2](https://github.com/woahhcrackers/CupheadWeb) - Ported by [bread](https://github.com/genizy), Decomp by [SpanishFreddy](https://github.com/spanishfreddy) and [koi/_flixel](https://oldgrounds.xyz/)
