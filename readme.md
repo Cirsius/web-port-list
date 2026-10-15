@@ -143,6 +143,7 @@
 - [Look Outside](https://github.com/web-ports/look-outside) - port by [bread](https://github.com/genizy)
 - [Marble Blast Gold & Marble Blast Platinum](https://github.com/Vanilagy/MarbleBlast) - port by [Vanilagy](https://github.com/Vanilagy)
 - [Meteor 60 Seconds](https://github.com/ThatWirdGuy/Meteor-60-Seconds-Web) - port by [ThatWirdGuy](https://github.com/ThatWirdGuy)
+- [Meowdoku!](https://github.com/c00lkiddtech/md-) - port by [Oblivion](https://github.com/c00lkiddtech)
 - [Milk inside a bag of milk inside a bag of milk](https://github.com/web-ports/milk-bag-games/tree/main/inside) - ported by [sky](https://github.com/skysthelimitt)
 - [Milk outside a bag of milk outside a bag of milk](https://github.com/web-ports/milk-bag-games/tree/main/outside) - ported by [sky](https://github.com/skysthelimitt)
 - - [MiSide](https://github.com/web-ports/miside/), [2](https://github.com/woahhcrackers/MiSideWeb) - ported by [bread](https://github.com/genizy), 2nd link [crackers](https://github.com/woahhcrackers)
